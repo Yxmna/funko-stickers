@@ -1,49 +1,49 @@
 {
   "stickers": [
     {
-      "sticker": "chase",
+      "name": "chase",
       "description": "description"
     },
     {
-      "sticker": "diamond collection",
+      "name": "diamond collection",
       "description": "description"
     },
     {
-      "sticker": "special edition",
+      "name": "special edition",
       "description": "description"
     },
     {
-      "sticker": "specialty series",
+      "name": "specialty series",
       "description": "description"
     },
     {
-      "sticker": "black light glow",
+      "name": "black light glow",
       "description": "description"
     },
     {
-      "sticker": "art series",
+      "name": "art series",
       "description": "description"
     },
     {
-      "sticker": "flocked",
+      "name": "flocked",
       "description": "description"
     },
     {
-      "sticker": "glows in the dark",
+      "name": "glows in the dark",
       "description": "description"
     },
     {
-      "sticker": "exclusive",
+      "name": "exclusive",
       "description": "description",
       "stores": "none"
     },
     {
-      "sticker": "exclusive",
+      "name": "exclusive",
       "description": "description",
       "stores": "toy stop"
     },
     {
-      "sticker": "exclusive",
+      "name": "exclusive",
       "description": "description",
       "stores": "chalice collectibles"
     }
