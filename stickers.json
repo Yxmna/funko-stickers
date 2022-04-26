@@ -34,8 +34,7 @@
     },
     {
       "name": "exclusive",
-      "description": "description",
-      "store": "none"
+      "description": "description"
     },
     {
       "name": "exclusive",
