@@ -45,6 +45,26 @@
       "name": "exclusive",
       "description": "description",
       "store": "chalice collectibles"
+    },
+    {
+      "name": "exclusive",
+      "description": "description",
+      "store": "hot topic"
+    },
+    {
+      "name": "exclusive",
+      "description": "description",
+      "store": "pop in a box"
+    },
+    {
+      "name": "exclusive",
+      "description": "description",
+      "store": "thinkgeek"
+    },
+    {
+      "name": "event",
+      "description": "description",
+      "event": "l.a. comic con 2021"
     }
   ]
 }
