@@ -35,17 +35,17 @@
     {
       "name": "exclusive",
       "description": "description",
-      "stores": "none"
+      "store": "none"
     },
     {
       "name": "exclusive",
       "description": "description",
-      "stores": "toy stop"
+      "store": "toy stop"
     },
     {
       "name": "exclusive",
       "description": "description",
-      "stores": "chalice collectibles"
+      "store": "chalice collectibles"
     }
   ]
 }
