@@ -1,6 +1,5 @@
 {
-  "stickers": [
-    {
+  "stickers": [{
       "name": "chase",
       "description": "description"
     },
@@ -70,6 +69,11 @@
       "name": "exclusive",
       "description": "description",
       "store": "fye"
+    },
+    {
+      "name": "exclusive",
+      "description": "description",
+      "store": "funko"
     },
     {
       "name": "exclusive",
