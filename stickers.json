@@ -64,6 +64,11 @@
     {
       "name": "exclusive",
       "description": "description",
+      "store": "boxlunch"
+    },
+    {
+      "name": "exclusive",
+      "description": "description",
       "event": "los angeles comic con 2021"
     }
   ]
