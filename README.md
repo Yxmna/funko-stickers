@@ -20,6 +20,7 @@ Join the discord ! https://discord.gg/hjFneeS6sa
  <img src="https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/special_edition.svg" width="100"> | ```https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/special_edition.svg```
  <img src="https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/specialty_series.svg" width="100"> | ```https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/specialty_series.svg```
  <img src="https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/super_sized.svg" width="100"> | ```https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/super_sized.svg```
+ <img src="https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/with_purpose.svg" width="100"> | ```https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/with_purpose.svg```
 
 
 
