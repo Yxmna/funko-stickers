@@ -1,5 +1,6 @@
 {
-  "stickers": [{
+  "stickers": [
+    {
       "name": "chase",
       "description": "description"
     },
@@ -102,6 +103,6 @@
       "name": "exclusive",
       "description": "description",
       "event": "los angeles comic con 2021"
-    },
+    }
   ]
 }
