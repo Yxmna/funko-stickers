@@ -40,6 +40,9 @@ Join the discord ! https://discord.gg/hjFneeS6sa
  <img src="https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_walmart.svg" width="100"> | ```https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_walmart.svg```
  <img src="https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_target.svg" width="100"> | ```https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_target.svg```
  <img src="https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_toys_r_us.svg" width="100"> | ```https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_toys_r_us.svg```
+ <img src="https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_amazon.svg" width="100"> | ```https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_amazon.svg```
+ <img src="https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_legion_of_collectors_old.svg" width="100"> | ```https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_legion_of_collectors_old.svg```
+ <img src="https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_legion_of_collectors.svg" width="100"> | ```https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_legion_of_collectors.svg```
 
 
  ## Event stickers
