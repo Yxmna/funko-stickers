@@ -102,6 +102,11 @@
     {
       "name": "exclusive",
       "description": "description",
+      "store": "amazon"
+    },
+    {
+      "name": "exclusive",
+      "description": "description",
       "event": "los angeles comic con 2021"
     }
   ]
