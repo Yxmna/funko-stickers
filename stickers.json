@@ -107,6 +107,17 @@
     {
       "name": "exclusive",
       "description": "description",
+      "store": "legion of collectors old",
+      "status": "old"
+    },
+    {
+      "name": "exclusive",
+      "description": "description",
+      "store": "legion of collectors"
+    },
+    {
+      "name": "exclusive",
+      "description": "description",
       "event": "los angeles comic con 2021"
     }
   ]
