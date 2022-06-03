@@ -38,6 +38,8 @@ Join the discord ! https://discord.gg/hjFneeS6sa
  <img src="https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_thinkgeek.svg" width="100"> | ```https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_thinkgeek.svg```
  <img src="https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_toy_stop.svg" width="100"> | ```https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_toy_stop.svg```
  <img src="https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_walmart.svg" width="100"> | ```https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_walmart.svg```
+ <img src="https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_target.svg" width="100"> | ```https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_target.svg```
+ <img src="https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_toys_r_us.svg" width="100"> | ```https://raw.githubusercontent.com/Yxmna/funko-stickers/main/svg/exc_toys_r_us.svg```
 
 
  ## Event stickers
