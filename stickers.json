@@ -91,7 +91,18 @@
     {
       "name": "exclusive",
       "description": "description",
+      "store": "toys r us"
+    },
+    {
+      "name": "exclusive",
+      "description": "description",
+      "store": "target"
+    },
+    {
+      "name": "exclusive",
+      "description": "description",
       "event": "los angeles comic con 2021"
     }
+    },
   ]
 }
