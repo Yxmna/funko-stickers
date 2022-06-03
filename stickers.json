@@ -118,6 +118,11 @@
     {
       "name": "exclusive",
       "description": "description",
+      "store": "micromania club"
+    },
+    {
+      "name": "exclusive",
+      "description": "description",
       "event": "los angeles comic con 2021"
     }
   ]
