@@ -118,6 +118,11 @@
     {
       "name": "exclusive",
       "description": "description",
+      "store": "zavvi"
+    },
+    {
+      "name": "exclusive",
+      "description": "description",
       "store": "micromania club"
     },
     {
