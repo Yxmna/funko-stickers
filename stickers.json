@@ -134,6 +134,26 @@
       "name": "exclusive",
       "description": "description",
       "event": "los angeles comic con 2021"
+    },
+    {
+      "name": "exclusive",
+      "description": "description",
+      "event": "spring convention 2021"
+    },
+    {
+      "name": "exclusive",
+      "description": "description",
+      "event": "spring convention 2021"
+    },
+    {
+      "name": "exclusive",
+      "description": "description",
+      "event": "summer convention 2021"
+    },
+    {
+      "name": "exclusive",
+      "description": "description",
+      "event": "fall convention 2022"
     }
   ]
 }
